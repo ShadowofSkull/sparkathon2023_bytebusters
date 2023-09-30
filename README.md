@@ -2,12 +2,12 @@
 
 ## Quick Start
 ### Frontend
-First clone the repository
+1. First clone the repository
 ```shell
 git clone https://github.com/ShadowofSkull/sparkathon2023_bytebusters.git
 ```  
 
-Then, open the index.html file in the frontend folder with the browser of your choice.
+2. Then, open the index.html file in the frontend folder with the browser of your choice.
 
 ### Backend
 1. Go to https://remix.ethereum.org/
